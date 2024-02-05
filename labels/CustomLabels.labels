@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
     <labels>
+        <fullName>Department_Delete_Error2</fullName>
+        <categories>Department Error Messages</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Department Delete Error2</shortDescription>
+        <value>この部署には現在ユーザが割り当てられているため、この部署を削除することはできません。</value>
+    </labels>
+    <labels>
         <fullName>Department_Delete_Error</fullName>
         <categories>Department Error Messages</categories>
         <language>en_US</language>
