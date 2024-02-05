@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>Department_Delete_Error</fullName>
+        <categories>Department Error Messages</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Department Delete Error</shortDescription>
+        <value>この部署は現在、他の部署から参照されているため、削除できません。</value>
+    </labels>
+</CustomLabels>
